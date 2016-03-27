@@ -1,5 +1,5 @@
-# Clarimoji 
-Enter an image URL and get its emoji representation! 
+# Clarimoji
+Enter an image URL and get its emoji representation!
 
 This is an application that uses React and the Clarifai API to analyze images and then return their emoji form.  Enjoy :beers:
 ### Version
@@ -7,7 +7,7 @@ This is an application that uses React and the Clarifai API to analyze images an
 ### Installation
 Set up is based on [this] tutorial.
 
-You need to enter your own client ID and secret code if you want to run this locally, [Clarifai] is free so it should be no problem. :)
+You need to enter your own client ID and secret code in the Utils.js file if you want to run this locally, [Clarifai] is free so it should be no problem. :)
 
 ### Todos
 
